@@ -1,5 +1,6 @@
 h1,
 h2 {
-  background-color: rgb(17, 238, 172);
   color: red;
+  background-color: rgb(17, 231, 160);
+  width: 50px;
 }
